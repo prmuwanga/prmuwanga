@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Primah  
 
 ## About Me  
-I’m a Data Science student at **Boston University** (Class of 2026, Minor in Engineering Science) passionate about building data-driven solutions for real-world problems. My interests range from **machine learning** and **data pipelines** to **sustainability applications** and **image processing**.  
+I’m a **Data Science student at Boston University** (Class of 2026, Minor in Engineering Science) who thrives on **problem-solving** and **strategic thinking**. I’m determined, hardworking, and always curious — I find learning new tools and concepts exciting because it opens the door to fresh ways of tackling challenges.  
 
-Outside of class, I’ve worked on projects that tackle climate action, automate data workflows, and uncover insights from unstructured data. I enjoy bridging technical problem-solving with creative impact.  
+I’m especially fascinated by the role of **social justice in data science** and the power of data to drive impact in **sustainability** and **climate action**. Whether it’s optimizing a pipeline, uncovering insights from complex datasets, or applying machine learning to real-world issues, I enjoy combining technical skills with purpose-driven work.  
 
 ---
 
